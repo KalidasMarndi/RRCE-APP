@@ -1,7 +1,8 @@
 
-  # Rapid Response Creative Engine Generator
+  # Rapid Response Creative Engine
 
 This is a code bundle for AI Poster Generator. The original project is available at https://www.figma.com/design/SfwhwlxqFIdG7LcpAzIt0Z/AI-Poster-Generator.
+
 yeh dekh liyo reference ke liye
 
   ## Running the code
